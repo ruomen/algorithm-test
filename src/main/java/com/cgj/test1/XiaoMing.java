@@ -1,5 +1,6 @@
 package com.cgj.test1;
 
+
 /**
  * @Description TODO
  * @Author CGJ
@@ -12,5 +13,7 @@ public class XiaoMing {
         System.out.println("git hello");
         System.out.println("check XiaoMing");
         System.out.println("master 1");
+
+
     }
 }
