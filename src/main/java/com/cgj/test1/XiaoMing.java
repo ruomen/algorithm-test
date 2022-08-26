@@ -12,7 +12,7 @@ public class XiaoMing {
     public static void main(String[] args) {
         System.out.println("git hello");
         System.out.println("check XiaoMing");
-        System.out.println("master 1");
+        System.out.println("master 12345");
 
 
     }
