@@ -13,6 +13,7 @@ public class XiaoMing {
         System.out.println("git hello");
         System.out.println("check XiaoMing");
         System.out.println("master 123");
+        System.out.println("新建李四分支");
 
     }
 
