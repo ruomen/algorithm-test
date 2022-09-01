@@ -14,7 +14,6 @@ public class XiaoMing {
         System.out.println("check XiaoMing");
         System.out.println("master 123");
 
-
-
     }
+
 }
